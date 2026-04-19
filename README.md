@@ -1,12 +1,12 @@
 # travel-booking-agent
 Python based agent to plan travels and book hotels. Created for educational purposes.
 
-A ideia por traz desse projeto é servir de repositório de código relacionado aos conceitos de construção de Agentes de IA utilizando Python puro, sem o uso de frameworks e sem o uso de assitentes de código.
+The idea behind this project is to serve as a code repository related to the concepts of building AI Agents using pure Python, without the use of frameworks or code assistants like Claude Code.
 
-O objetivo é explorar os conceitos de system prompts, user prompts, structured outputs, tools, retriaval, memory, prompt chaining, routing and parallelization.
+The goal is to explore the concepts of system prompts, user prompts, structured outputs (using Pydantic), tools, retrieval, memory, prompt chaining, routing and parallelization.
 
-Passo a passo:
+Step-by-step:
 
-1 - Chamar a API do Claude
-2 - Criar um modelo de validação Pydantic
-3 - Criar um prompt chaining
+1 - Call the OpenAI API using Groq open models
+2 - Create a Pydantic validation model
+3 - Create a prompt chaining workflow
