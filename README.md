@@ -8,5 +8,8 @@ The goal is to explore the concepts of system prompts, user prompts, structured 
 Step-by-step:
 
 1 - Call the OpenAI API using Groq open models
+
 2 - Create a Pydantic validation model
+
 3 - Create a prompt chaining workflow
+
